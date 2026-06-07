@@ -4,7 +4,7 @@ Un proyecto de práctica diminuto para aprender el flujo de un Pull Request en G
 
 ## ¿Qué hace?
 
-Contiene una función `greet()` que devuelve un saludo. Es un smal ejemplo
+Contiene una función `greet()` que devuelve un saludo. Es un pequeño ejemplo
 pensado únicamente para practicar cómo se abre y se fusiona un PR.
 
 ## Uso
